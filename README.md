@@ -1,2 +1,2 @@
-# atividadJava
+# atividadeJava
 Desenvolvimento de programação Java
